@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Antonio Manuel Rodriguez Martos    :octocat:  @suribel
+ * :bust_in_silhouette:   Antonio Manuel Rodriguez Martos    :octocat:  [suribel](https://github.com/suribel)
 
 ----- 
 

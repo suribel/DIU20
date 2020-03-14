@@ -10,8 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Antonio Manuel Rodriguez Martos    :octocat:     
 
 ----- 
 

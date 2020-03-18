@@ -59,7 +59,7 @@ que tal le va. Muchos de sus amigos han salido fuera de la ciudad en busca de ot
 oportunidades, pero para ella no es problema salir y conocer gente nueva para lo que surja.
 Su perra es una parte fundamental en su vida y a sus compañeras de piso también les
 encanta aunque de vez en cuando la lie.
-![Pers1](P1/Persona1.png)
+![Pers1](P1/Persona1.PNG)
 Francisco Fernandez
 Esta persona es un hombre con un recorrido laboral aceptable que se encuentra cómodo
 con su pareja y contento del lugar donde vive, pero que la personalidad de la gente que le
@@ -71,7 +71,7 @@ sufrió de sobrepeso dado su metabolismo lento y no quiere verse mal.
 Es una persona muy familiar y le gusta mantener conversaciones con sus amigos de toda la
 vida. A veces le gustaría volver a Cadiz y trabajar allí pero sabe que en Madrid tiene un
 puesto fijo y gana más dinero.
-![Pers1](P1/Persona2.png)
+![Pers1](P1/Persona2.PNG)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map

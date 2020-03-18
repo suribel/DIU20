@@ -48,7 +48,7 @@ por tanto ha sido la elegida.
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Harley Quinn Rodriguez
+>>> **Harley Quinn Rodriguez**: 
 Esta persona es una joven que está en una etapa de la vida en la que empieza a pensar en
 su futuro y en el empleo que quiere desarrollar con los estudios que ha realizado. Todavía
 sigue bajando a casa de sus padres muchos findes, principalmente para no tener que
@@ -60,7 +60,7 @@ oportunidades, pero para ella no es problema salir y conocer gente nueva para lo
 Su perra es una parte fundamental en su vida y a sus compañeras de piso también les
 encanta aunque de vez en cuando la lie.
 ![Pers1](P1/Persona1.PNG)
-Francisco Fernandez
+**Francisco Fernandez**: 
 Esta persona es un hombre con un recorrido laboral aceptable que se encuentra cómodo
 con su pareja y contento del lugar donde vive, pero que la personalidad de la gente que le
 rodea en un su oficina no le gusta o comparte demasiado, por eso suele realizar la mayoría

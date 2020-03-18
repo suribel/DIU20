@@ -29,13 +29,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Eatwith .
+>>> **Eatwith**: 
 La podemos encontrar tanto en versión web como en app. Esta aplicación es para buscar o
 crear experiencias culinarias, tanto tours gastronómicos como clases de cocina. Solo
 tendremos que registrarnos, de forma muy rápida y sencilla y ya podremos ocupar el rol que
 queramos. La interfaz es muy amigable y visualmente muy bonita, aunque cuenta con
 mucha cantidad de información e imágenes, son de gran ayuda a la hora de decir.
-Meetup.
+**Meetup**:
 También la podemos encontrar tanto en versión web como en app. En esta aplicación
 podremos buscar o crear eventos de cualquier tipo. Solo tendremos que registrarnos, de
 forma muy rápida e intuitiva, la información está organizada y explicada de forma muy clara,

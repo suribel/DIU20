@@ -81,18 +81,15 @@ puesto fijo y gana más dinero.
 
 He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
 con facilidad.
+
+**Harley Quinn Rodriguez**: 
 ![Pers1JM](P1/Persona1JourneyMap.PNG)
-sisi
+**Francisco Fernandez**: 
 ![Pers2JM](P1/Persona2JourneyMap.PNG)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  

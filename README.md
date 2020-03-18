@@ -82,7 +82,8 @@ puesto fijo y gana más dinero.
 He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
 con facilidad.
 ![Pers1JM](P1/Persona1Journey Map.png)
-![Pers2JM](P1/Persona1Journey Map.PNG)
+
+![Pers2JM](P1/Persona2Journey Map.PNG)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review

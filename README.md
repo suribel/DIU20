@@ -79,8 +79,11 @@ puesto fijo y gana más dinero.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
+con facilidad.
+![Pers1JM](P1/Persona1Journey Map.png)
+![Pers2JM](P1/Persona1Journey Map.PNG)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

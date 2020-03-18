@@ -82,7 +82,7 @@ puesto fijo y gana más dinero.
 He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
 con facilidad.
 ![Pers1JM](P1/Persona1Journey Map.png)
-
+sisi
 ![Pers2JM](P1/Persona2Journey Map.PNG)
 
 

@@ -35,6 +35,7 @@ crear experiencias culinarias, tanto tours gastronómicos como clases de cocina.
 tendremos que registrarnos, de forma muy rápida y sencilla y ya podremos ocupar el rol que
 queramos. La interfaz es muy amigable y visualmente muy bonita, aunque cuenta con
 mucha cantidad de información e imágenes, son de gran ayuda a la hora de decir.
+>>>
 **Meetup**:
 También la podemos encontrar tanto en versión web como en app. En esta aplicación
 podremos buscar o crear eventos de cualquier tipo. Solo tendremos que registrarnos, de

@@ -90,10 +90,11 @@ con facilidad.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Valoración 77/100
+Valoración 77/100.
+
 Creo que la aplicación está muy completa en cuanto a funcionalidad pero es muy sosa y
 simple en algunos apartados, también debería mejorar la interacción con el usuario, por tanto lo mejor es quizá la ayuda disponible y lo peor la busqueda de actividades.
-![UsabilityReview](P1/Usability-review.pdf)
+![](P1/Usability-review.pdf)
 
 ## Paso 2. UX Design  
 

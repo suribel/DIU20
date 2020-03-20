@@ -94,7 +94,7 @@ Valoración 77/100.
 
 Creo que la aplicación está muy completa en cuanto a funcionalidad pero es muy sosa y
 simple en algunos apartados, también debería mejorar la interacción con el usuario, por tanto lo mejor es quizá la ayuda disponible y lo peor la busqueda de actividades.
-![](P1/Usability-review.pdf)
+[Usability-review](P1/Usability-review.pdf)
 
 ## Paso 2. UX Design  
 

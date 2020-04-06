@@ -119,6 +119,7 @@ actividades/anuncios de sus fiestas o eventos con su nombre , p.ej. Discoteca Vo
 -----
 
 ![Tasks](P2/matriz.PNG)
+
 He dividido al usuario logeado en los dos roles que se pueden dar de forma generalizada.
 
 

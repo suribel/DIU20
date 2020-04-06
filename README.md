@@ -102,43 +102,45 @@ simple en algunos apartados, también debería mejorar la interacción con el us
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+![Cuadrante](P2/Cuadrante.PNG)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Al poder ver actividades o eventos sin estar logeados mejoramos la forma de difusión para llegar a
+cualquiera.
+La forma de buscar y poder seguir entidades y tags mejora la interfaz(Forma de buscar parecida a la
+que tiene instagram).
+Mejoramos la conexión del usuario interesado con una pagina de inicio personalizada con los
+eventos cercanos con las temáticas y entidades que haya escogido.
+También mejoramos la forma de difusión con entidades o locales físicos del entorno para darse a
+conocer o expandir mas su forma de difundir actividades o eventos. Un ejemplo seria una discoteca,
+la cual se crearía un perfil validado, verificando su propiedad y con esto podría crear
+actividades/anuncios de sus fiestas o eventos con su nombre , p.ej. Discoteca Vogue.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Tasks](P2/matriz.PNG)
+He dividido al usuario logeado en los dos roles que se pueden dar de forma generalizada.
 
+
+![Sitemap](P2/arquitectura.PNG)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![Labelling](P2/labels.PNG)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+![WF](P2/busqueda.png)
+![WF](P2/busqueda_eventos.png)
+![WF](P2/busqueda_grupos.png)
+![WF](P2/busqueda_tags.png)
+![WF](P2/busqueda_usuarios.png)
+![WF](P2/perfil.png)
+![WF](P2/tag.png)
+![WF](P2/preferencias.png)
+![WF](P2/tu_comunidad.png)
 
 ## Paso 3. Make (Prototyping) 
 

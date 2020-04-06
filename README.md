@@ -122,7 +122,7 @@ actividades/anuncios de sus fiestas o eventos con su nombre , p.ej. Discoteca Vo
 He dividido al usuario logeado en los dos roles que se pueden dar de forma generalizada.
 
 
-![Sitemap](P2/arquitectura.PNG)
+![Sitemap](P2/arquitectura.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----

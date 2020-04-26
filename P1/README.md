@@ -1,5 +1,5 @@
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 **Eatwith**: 
@@ -19,7 +19,7 @@ Meetup es la más conocida, la de más recorrido, la más versátil y la que per
 he utilizado y aunque visualmente no sea mi estilo, era la candidata que mejor me parecía,
 por tanto ha sido la elegida.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 **Harley Quinn Rodriguez**: 
@@ -33,7 +33,7 @@ que tal le va. Muchos de sus amigos han salido fuera de la ciudad en busca de ot
 oportunidades, pero para ella no es problema salir y conocer gente nueva para lo que surja.
 Su perra es una parte fundamental en su vida y a sus compañeras de piso también les
 encanta aunque de vez en cuando la lie.
-![Pers1](P1/Persona1.PNG)
+![Pers1](Persona1.PNG)
 
 **Francisco Fernandez**: 
 Esta persona es un hombre con un recorrido laboral aceptable que se encuentra cómodo
@@ -49,22 +49,22 @@ puesto fijo y gana más dinero.
 ![Pers1](P1/Persona2.PNG)
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
 con facilidad.
 
 **Harley Quinn Rodriguez**: 
-![Pers1JM](P1/Persona1JourneyMap.PNG)
+![Pers1JM](Persona1JourneyMap.PNG)
 **Francisco Fernandez**: 
-![Pers2JM](P1/Persona2JourneyMap.PNG)
+![Pers2JM](Persona2JourneyMap.PNG)
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 Valoración 77/100.
 
 Creo que la aplicación está muy completa en cuanto a funcionalidad pero es muy sosa y
 simple en algunos apartados, también debería mejorar la interacción con el usuario, por tanto lo mejor es quizá la ayuda disponible y lo peor la busqueda de actividades.
-[Usability-review](P1/Usability-review.pdf)
+[Usability-review](Usability-review.pdf)

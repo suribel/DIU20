@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.AMRM.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: EVEREVENTS
 
-Descripción: 
+Descripción: EVEREVENTS es una applicacion mediante la cual vas a poder disfrutar de organizaciones y eventos al rededos de ti, ofrecidos por cualquier persona, local o perfiles verificados. Ademas tu tambien puedes crear tu evento o perfil. Y todos esto sin ningun coste!
 
 Logotipo: 
 
@@ -19,7 +19,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 

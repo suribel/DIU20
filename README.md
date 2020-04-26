@@ -7,7 +7,6 @@ Proyecto: EVEREVENTS
 
 Descripción: EVEREVENTS es una applicacion mediante la cual vas a poder disfrutar de organizaciones y eventos al rededos de ti, ofrecidos por cualquier persona, local o perfiles verificados. Ademas tu tambien puedes crear tu evento o perfil. Y todos esto sin ningun coste!
 
-Logotipo: 
 <img src="img/LOGO.png" alt="drawing" width="150"/>
 
 Miembros

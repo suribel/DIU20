@@ -7,7 +7,7 @@ Proyecto: EVEREVENTS
 
 Descripción: EVEREVENTS es una applicacion mediante la cual vas a poder disfrutar de organizaciones y eventos al rededos de ti, ofrecidos por cualquier persona, local o perfiles verificados. Ademas tu tambien puedes crear tu evento o perfil. Y todos esto sin ningun coste!
 
-Logotipo: ![logo](img/LOGO.png)
+Logotipo: ![logo](img/LOGO.png =250x250)
 
 Miembros
  * :bust_in_silhouette:   Antonio Manuel Rodriguez Martos    :octocat:  [suribel](https://github.com/suribel)

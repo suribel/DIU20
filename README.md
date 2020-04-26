@@ -7,7 +7,7 @@ Proyecto: EVEREVENTS
 
 Descripción: EVEREVENTS es una applicacion mediante la cual vas a poder disfrutar de organizaciones y eventos al rededos de ti, ofrecidos por cualquier persona, local o perfiles verificados. Ademas tu tambien puedes crear tu evento o perfil. Y todos esto sin ningun coste!
 
-Logotipo: 
+Logotipo: ![logo](img/LOGO.png)
 
 Miembros
  * :bust_in_silhouette:   Antonio Manuel Rodriguez Martos    :octocat:  [suribel](https://github.com/suribel)
@@ -28,72 +28,24 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-**Eatwith**: 
-La podemos encontrar tanto en versión web como en app. Esta aplicación es para buscar o
-crear experiencias culinarias, tanto tours gastronómicos como clases de cocina. Solo
-tendremos que registrarnos, de forma muy rápida y sencilla y ya podremos ocupar el rol que
-queramos. La interfaz es muy amigable y visualmente muy bonita, aunque cuenta con
-mucha cantidad de información e imágenes, son de gran ayuda a la hora de decir.
-
-**Meetup**:
-También la podemos encontrar tanto en versión web como en app. En esta aplicación
-podremos buscar o crear eventos de cualquier tipo. Solo tendremos que registrarnos, de
-forma muy rápida e intuitiva, la información está organizada y explicada de forma muy clara,
-tanto para buscar como para crear algún evento. A mi parecer su aspecto es un tanto sobrio
-pero tiene muchas características, lo que ha veces puede llevarte perderte por la interfaz.
-Meetup es la más conocida, la de más recorrido, la más versátil y la que personalmente yo
-he utilizado y aunque visualmente no sea mi estilo, era la candidata que mejor me parecía,
-por tanto ha sido la elegida.
+Para hacer el análisis competitivo primero tuvimos que mirar que aplicaciones hacen lo mismo que nosotros queríamos desarrollar y tras tener una lista nos decantamos finalmente por hacer dicha comparación con meetup, ya que era la más usada y la que más recorrido tenía, por tanto era de la que más datos podríamos sacar.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-**Harley Quinn Rodriguez**: 
-Esta persona es una joven que está en una etapa de la vida en la que empieza a pensar en
-su futuro y en el empleo que quiere desarrollar con los estudios que ha realizado. Todavía
-sigue bajando a casa de sus padres muchos findes, principalmente para no tener que
-cocinar y llevarse tapers de comida. A nivel económico empieza a querer independizarse al
-cien por cien de sus padres pero sabe que es complicado si se mete en el ámbito de la
-investigación, por eso quiere empezar haciendo unas prácticas en alguna empresa para ver
-que tal le va. Muchos de sus amigos han salido fuera de la ciudad en busca de otras
-oportunidades, pero para ella no es problema salir y conocer gente nueva para lo que surja.
-Su perra es una parte fundamental en su vida y a sus compañeras de piso también les
-encanta aunque de vez en cuando la lie.
-![Pers1](P1/Persona1.PNG)
-
-**Francisco Fernandez**: 
-Esta persona es un hombre con un recorrido laboral aceptable que se encuentra cómodo
-con su pareja y contento del lugar donde vive, pero que la personalidad de la gente que le
-rodea en un su oficina no le gusta o comparte demasiado, por eso suele realizar la mayoría
-de actividades de ocio con su novia Samantha. Sus expectativas son crecer en la empresa
-y por tanto echa más horas de las que debería y eso le frustra. Hacer ejercicio y
-preocuparse por su alimentación ocupa un lugar importante en su vida ya que de pequeño
-sufrió de sobrepeso dado su metabolismo lento y no quiere verse mal.
-Es una persona muy familiar y le gusta mantener conversaciones con sus amigos de toda la
-vida. A veces le gustaría volver a Cadiz y trabajar allí pero sabe que en Madrid tiene un
-puesto fijo y gana más dinero.
-![Pers1](P1/Persona2.PNG)
-
+Para poder identificar los objetivos y puntos débiles de la app decidimos presentar a dos personas ficticias y , Francisco y Harley, un chico de mediana edad y una chica joven.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-He escogido situaciones variadas con personas con objetivos diferentes que pueden ocurrir
-con facilidad.
-
-**Harley Quinn Rodriguez**: 
-![Pers1JM](P1/Persona1JourneyMap.PNG)
-**Francisco Fernandez**: 
-![Pers2JM](P1/Persona2JourneyMap.PNG)
-
+Tras presentar a los los dos personajes ficticios, pasamos a crear una historia a cada uno con objetivos diferentes utilizando la aplicación que comparamos para así obtener los datos relevantes sobre sus funcionalidades.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Valoración 77/100.
 
-Creo que la aplicación está muy completa en cuanto a funcionalidad pero es muy sosa y
-simple en algunos apartados, también debería mejorar la interacción con el usuario, por tanto lo mejor es quizá la ayuda disponible y lo peor la busqueda de actividades.
-[Usability-review](P1/Usability-review.pdf)
+Finalmente hacemos un análisis exhaustivo acerca de los diferentes apartados de usabilidad de la aplicación que comparamos.
+Valoración 77/100. 
+
 
 ## Paso 2. UX Design  
 
@@ -101,46 +53,25 @@ simple en algunos apartados, también debería mejorar la interacción con el us
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-![Cuadrante](P2/Cuadrante.PNG)
-
-Al poder ver actividades o eventos sin estar logeados mejoramos la forma de difusión para llegar a
-cualquiera.
-La forma de buscar y poder seguir entidades y tags mejora la interfaz(Forma de buscar parecida a la
-que tiene instagram).
-Mejoramos la conexión del usuario interesado con una pagina de inicio personalizada con los
-eventos cercanos con las temáticas y entidades que haya escogido.
-También mejoramos la forma de difusión con entidades o locales físicos del entorno para darse a
-conocer o expandir mas su forma de difundir actividades o eventos. Un ejemplo seria una discoteca,
-la cual se crearía un perfil validado, verificando su propiedad y con esto podría crear
-actividades/anuncios de sus fiestas o eventos con su nombre , p.ej. Discoteca Vogue.
+Después nos pusimos a organizar de mejor manera los datos que habíamos obtenido en el análisis anterior. Creamos una malla receptora información  para visualizar mejor las ideas que queríamos mantener, las que queríamos evitar y las nuevas. En este punto sacamos ideas muy interesantes para desarrollar.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-![Tasks](P2/matriz.PNG)
+Antes de comenzar los bocetos, primero definimos que funcionalidades y perfiles de usuario eran más relevantes de cara al uso de la aplicación, esto lo conseguiremos a través de una simple tabla donde podremos ver fácilmente lo anterior.
 
-He dividido al usuario logeado en los dos roles que se pueden dar de forma generalizada.
-
-
-![Sitemap](P2/arquitectura.png)
+A través del sitemap mostraremos una visión general de forma jerárquica de como estarían estructuradas las páginas que componen a nuestra aplicación y su navegación.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-![Labelling](P2/labels.PNG)
+Para que se entienda mejor cada página o etiqueta expuesta en el punto anterior haremos una lista y explicaremos o describiremos de forma más detallada la función de cada una.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![WF](P2/busqueda.png)
-![WF](P2/busqueda_eventos.png)
-![WF](P2/busqueda_grupos.png)
-![WF](P2/busqueda_tags.png)
-![WF](P2/busqueda_usuarios.png)
-![WF](P2/perfil.png)
-![WF](P2/tag.png)
-![WF](P2/preferencias.png)
-![WF](P2/tu_comunidad.png)
+Finalmente terminamos este punto diseñando los bocetos iniciales de cada una de esas páginas que hemos definido.
+
 
 ## Paso 3. Make (Prototyping) 
 

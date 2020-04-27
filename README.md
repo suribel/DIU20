@@ -78,10 +78,12 @@ Finalmente terminamos este punto diseñando los bocetos iniciales de cada una de
 
 ## Paso 3. Mi equipo UX-Case Study 
 
+Proceso detallado [aquí](https://github.com/suribel/DIU20/blob/master/P3/README.md)
+
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-Aqui analizaremos 
+Aqui reflexionaremos sobre los métodos UX	que	han	puesto en	práctica los desarrolladores de la aplicacion MuseMap.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -94,26 +96,7 @@ Creo que es un logo versatil para usar en cualquier entorno como redes sociales.
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Para el diseño he optado por una línea de diseño basada en los estándares que ofrece android.
-
-He decidido utilizar una paleta con colores azulados , predominando el oscuro para un visionado que no moleste y otros más claros que aportan frescura.
-Esta la he obtenido de Colorhunt donde se difunden distintas paletas de colores y se hace un ranking de las mismas.
-https://colorhunt.co/palette/167893
-
-<img src="P3/color.png" alt="drawing" width="400"/>
-
-
-Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
-https://fonts.google.com/
-
-![](P3/font.png)
-
-Para los iconos también sigo la misma línea que se utiliza en android.
-https://www.flaticon.es/packs/android-app-3
-
-![](P3/iconos.png)
-
-
+Para el diseño he optado por un patron basado en los estándares que ofrece android, utilizando para esto las mejores web del entorno.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

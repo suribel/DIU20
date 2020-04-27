@@ -1,10 +1,10 @@
 
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+![Método UX](../img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 Aqui analizaremos 
 
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](../img/landing-page.png)  3.b Logotipo
 ----
 
 <img src="img/LOGO.png" alt="drawing" width="250"/>
@@ -12,7 +12,7 @@ Aqui analizaremos
 El logotivo ha sido creado con el programada de edicion gratuito GIMP.
 Creo que es un logo versatil para usar en cualquier entorno como redes sociales...
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](../img/guidelines.png) 3.c Guidelines
 ----
 
 Para el diseño he optado por una línea de diseño basada en los estándares que ofrece android.
@@ -36,7 +36,7 @@ https://www.flaticon.es/packs/android-app-3
 
 
 
-![Método UX](img/mockup.png)  3.d Video
+![Método UX](../img/mockup.png)  3.d Video
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox

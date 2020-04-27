@@ -76,73 +76,74 @@ Para que se entienda mejor cada página o etiqueta expuesta en el punto anterior
 Finalmente terminamos este punto diseñando los bocetos iniciales de cada una de esas páginas que hemos definido.
 
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Aqui analizaremos 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+<img src="img/LOGO.png" alt="drawing" width="250"/>
 
->>> Plantear Landing Page 
+El logotivo ha sido creado con el programada de edicion gratuito GIMP.
+Creo que es un logo versatil para usar en cualquier entorno como redes sociales...
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+Para el diseño he optado por una línea de diseño basada en los estándares que ofrece android.
 
-![Método UX](img/mockup.png)  3.d Mockup
+He decidido utilizar una paleta con colores azulados , predominando el oscuro para un visionado que no moleste y otros más claros que aportan frescura.
+Esta la he obtenido de Colorhunt donde se difunden distintas paletas de colores y se hace un ranking de las mismas.
+https://colorhunt.co/palette/167893
+
+
+Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
+https://fonts.google.com/
+
+
+
+Para los iconos también sigo la misma línea que se utiliza en android.
+https://www.flaticon.es/packs/android-app-3
+
+
+
+
+
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. UX Check (Usability Testing) 
+## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> Práctica A: 
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Concluya con un ranking de los casos evaluados 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
+>>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -157,10 +158,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-## Conclusión / Valoración de las prácticas
+## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
 
 
 

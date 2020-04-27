@@ -100,18 +100,18 @@ He decidido utilizar una paleta con colores azulados , predominando el oscuro pa
 Esta la he obtenido de Colorhunt donde se difunden distintas paletas de colores y se hace un ranking de las mismas.
 https://colorhunt.co/palette/167893
 
-<img src="color.png" alt="drawing" width="400"/>
+<img src="P3/color.png" alt="drawing" width="400"/>
 
 
 Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
 https://fonts.google.com/
 
-![Método UX](font.png)
+![Método UX](P3/font.png)
 
 Para los iconos también sigo la misma línea que se utiliza en android.
 https://www.flaticon.es/packs/android-app-3
 
-![Método UX](iconos.png)
+![Método UX](P3/iconos.png)
 
 
 

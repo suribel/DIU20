@@ -21,7 +21,7 @@ He decidido utilizar una paleta con colores azulados , predominando el oscuro pa
 Esta la he obtenido de Colorhunt donde se difunden distintas paletas de colores y se hace un ranking de las mismas.
 https://colorhunt.co/palette/167893
 
-![Método UX](color.png)
+<img src="color.png" alt="drawing" width="400"/>
 
 
 Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.

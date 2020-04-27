@@ -27,7 +27,7 @@ https://colorhunt.co/palette/167893
 Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
 https://fonts.google.com/
 
-![Método UX](fuente.png)
+![Método UX](font.png)
 
 Para los iconos también sigo la misma línea que se utiliza en android.
 https://www.flaticon.es/packs/android-app-3

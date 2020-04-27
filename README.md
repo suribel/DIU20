@@ -78,7 +78,6 @@ Finalmente terminamos este punto diseñando los bocetos iniciales de cada una de
 
 ## Paso 3. Mi equipo UX-Case Study 
 
-
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
@@ -101,16 +100,18 @@ He decidido utilizar una paleta con colores azulados , predominando el oscuro pa
 Esta la he obtenido de Colorhunt donde se difunden distintas paletas de colores y se hace un ranking de las mismas.
 https://colorhunt.co/palette/167893
 
+<img src="color.png" alt="drawing" width="400"/>
+
 
 Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
 https://fonts.google.com/
 
-
+![Método UX](font.png)
 
 Para los iconos también sigo la misma línea que se utiliza en android.
 https://www.flaticon.es/packs/android-app-3
 
-
+![Método UX](iconos.png)
 
 
 
@@ -118,7 +119,6 @@ https://www.flaticon.es/packs/android-app-3
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
 
 ## Paso 4. Evaluación 
 

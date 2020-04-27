@@ -7,6 +7,7 @@ MuseMap, una aplicación sobre el arte público y urbano.
 https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b
 Para desarrollar esta reflexión partiremos de los puntos que dicha aplicación ha tratado y los
 iremos comparando con los nuestros.
+
 Contextual Inquiry
 Primero el equipo realizó una lluvia de ideas para hacer suposiciones sobre los posibles
 usuarios objetivo y sus necesidades alrededor del producto principal de su aplicación que

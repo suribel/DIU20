@@ -7,7 +7,7 @@ Aqui analizaremos
 ![Método UX](../img/landing-page.png)  3.b Logotipo
 ----
 
-<img src="img/LOGO.png" alt="drawing" width="250"/>
+<img src="../img/LOGO.png" alt="drawing" width="250"/>
 
 El logotivo ha sido creado con el programada de edicion gratuito GIMP.
 Creo que es un logo versatil para usar en cualquier entorno como redes sociales...
@@ -27,16 +27,16 @@ https://colorhunt.co/palette/167893
 Para la fuente he decidido utilizar “Open Sans” y sus variables, a través de la web de Google Fonts, ya que me parece que sigue una línea estilizada acorde para la aplicación.
 https://fonts.google.com/
 
-![Método UX](font.png)
+![](font.png)
 
 Para los iconos también sigo la misma línea que se utiliza en android.
 https://www.flaticon.es/packs/android-app-3
 
-![Método UX](iconos.png)
+![](iconos.png)
 
 
 
 ![Método UX](../img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+https://drive.google.com/drive/folders/1y-b4ffZfqmr4vEZqbKbSPS7d-qWJl1Om?usp=sharing

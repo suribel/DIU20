@@ -35,12 +35,12 @@ Para hacer el análisis competitivo primero tuvimos que mirar que aplicaciones h
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Para poder identificar los objetivos y puntos débiles de la app decidimos presentar a dos personas ficticias y , Francisco y Harley, un chico de mediana edad y una chica joven.
+Para poder identificar los objetivos y puntos débiles de la app decidimos presentar a dos personas ficticias, Francisco y Harley, un chico de mediana edad y una chica joven.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Tras presentar a los los dos personajes ficticios, pasamos a crear una historia a cada uno con objetivos diferentes utilizando la aplicación que comparamos para así obtener los datos relevantes sobre sus funcionalidades.
+Tras presentar a los dos personajes ficticios, pasamos a crear una historia a cada uno con objetivos diferentes utilizando la aplicación que comparamos para así obtener los datos relevantes sobre sus funcionalidades.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -83,20 +83,21 @@ Proceso detallado [aquí](https://github.com/suribel/DIU20/blob/master/P3/README
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-Aqui reflexionaremos sobre los métodos UX	que	han	puesto en	práctica los desarrolladores de la aplicacion MuseMap.
+Aquí reflexionaremos sobre los métodos UX	que	han	puesto en	práctica los desarrolladores de la aplicación MuseMap.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 <img src="img/LOGO.png" alt="drawing" width="250"/>
 
-El logotivo ha sido creado con el programada de edicion gratuito GIMP.
-Creo que es un logo versatil para usar en cualquier entorno como redes sociales...
+El logotipo ha sido creado con el programa de edición gratuito GIMP.
+Creo que es un logo versátil para usar en cualquier entorno como redes sociales...
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Para el diseño he optado por un patron basado en los estándares que ofrece android, utilizando para esto las mejores web del entorno.
+Para el diseño he optado por un patrón basado en los estándares que ofrece android, utilizando para esto las mejores web del entorno.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

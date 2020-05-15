@@ -46,7 +46,7 @@ sufrió de sobrepeso dado su metabolismo lento y no quiere verse mal.
 Es una persona muy familiar y le gusta mantener conversaciones con sus amigos de toda la
 vida. A veces le gustaría volver a Cadiz y trabajar allí pero sabe que en Madrid tiene un
 puesto fijo y gana más dinero.
-![Pers1](P1/Persona2.PNG)
+![Pers1](Persona2.PNG)
 
 
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map

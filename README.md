@@ -164,7 +164,7 @@ La malla receptora de información.
 
 **DIU3.Bolargo**		:octocat: https://github.com/iscoct/DIU20
 
-Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir ocio.
+Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir viaje.
 
 *Puntuacion 59/100*
 
@@ -204,6 +204,13 @@ Harley busca un apartamento para pasar su siguiente año y encontrar algo econó
 **2- DIU3.Bolargo   59/100**
 
 **3- DIU2.GMI	  55/100**
+
+
+El poder ver cómo los diferentes grupos han sobrellevado la tarea y las diferentes ideas que han plasmado con otros temas han sido de gran utilidad.
+
+También he podido comprobar con estos casos que generalmente la primera parte o la primera flojea más pero en las siguientes partes aunque mejore el modo de expresar o reunir las ideas, un buen ‘Análisis y UX Desk Research’ hace que la parte ‘UX Design’ sea más sencilla, es decir, que si se plantea una primera parte de buena forma, completo y con buenas características en las siguientes fases tendremos una mejor base donde trabajar y avanzar mucho mejor .
+
+Finalmente el ver tantos casos distintos creo que ayudan a saber cómo funcionan mejor las diferentes partes o estructuras para así hacer un diseño de la mejor forma posible.
 
 
 

@@ -10,6 +10,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 Este equipo ha planteado la idea de diseño de una aplicación basada en la experiencia de compartir viaje.
 
 [Hoja de Evaluacion Excel](https://github.com/suribel/DIU20/blob/master/P4/COHETE.xlsx)
+[Hoja de Evaluacion PDF](https://github.com/suribel/DIU20/blob/master/P4/COHETE.pdf)
 
 *Puntuación 67/100*
 
@@ -38,6 +39,7 @@ La propuesta de mejora.
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de compartir alojamiento.
 
 [Hoja de Evaluacion Excel](https://github.com/suribel/DIU20/blob/master/P4/GMI.xlsx)
+[Hoja de Evaluacion PDF](https://github.com/suribel/DIU20/blob/master/P4/GMI.pdf)
 
 *Puntuacion 55/100*
 
@@ -68,6 +70,7 @@ La malla receptora de información.
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir viaje.
 
 [Hoja de Evaluacion Excel](https://github.com/suribel/DIU20/blob/master/P4/BOLARGO.xlsx)
+[Hoja de Evaluacion PDF](https://github.com/suribel/DIU20/blob/master/P4/BOLARGO.pdf)
 
 *Puntuacion 59/100*
 

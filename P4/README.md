@@ -85,12 +85,18 @@ Los bocetos.
 
 
 ## User Testing
+	
+	Harley tiene que hacer un viaje precipitado al día siguiente para visitar a su padre que ha sido operado, hablando con una amiga le recomienda usar Pazifika, tras llegar de clase busca esta app pero le pide registrarse para ver los posibles viajes, esto le molesta un poco pero intenta registrarse, al no tener ninguna opcion rapida de registro con google o facebook se cansa y busca otra aplicación que le deje ver los viajes disponibles y hacer un registro rápido.
 
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
+	Harley busca un apartamento para pasar su siguiente año y encontrar algo económico, en Global Homeve una alternativa que dice ofrecer mejores precios. Tras buscar encuentra un apartamento interesante, pero el usuario ofrece un contrato en moneda virtual, pero como ella no entiende mucho del tema contacta con el vendedor para saber más, tras un tiempo hablando las alternativas de pago que le ofrece no le hacen fiarse de él, al ver que no hay un seguro que la respalde, esto hace que rechace la aplicación.
 
 
 ## Conclusiones
+
+El poder ver cómo los diferentes grupos han sobrellevado la tarea y las diferentes ideas que han plasmado con otros temas ha sido de gran utilidad.
+
+También he podido comprobar con estos casos que generalmente la primera parte o la primera flojea más pero en las siguientes partes aunque mejore el modo de expresar o reunir las ideas, un buen ‘Análisis y UX Desk Research’ hace que la parte ‘UX Design’ sea más sencilla, es decir, que si se plantea una primera parte de buena forma, completo y con buenas características en las siguientes fases tendremos una mejor base donde trabajar y avanzar mucho mejor .
+
+
+Finalmente el ver tantos casos distintos creo que ayudan a saber cómo funcionan mejor las diferentes partes o estructuras para así hacer un diseño de la mejor forma posible.
+

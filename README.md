@@ -114,7 +114,7 @@ DIU1.COHETE	https://github.com/migue99angel/DIU20
 
 Este equipo ha planteado la idea de diseño de una aplicación basada en la experiencia de compartir viaje.
 
-Puntuación 67/100
+*Puntuación 67/100*
 
 A continuación describiré la valoración del equipo según las  partes correspondientes con las partes fuertes y débiles del proyecto:
 
@@ -139,7 +139,7 @@ DIU2.GMI	https://github.com/GonzaloMartinezIanez/DIU2-GMI
 
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de compartir alojamiento.
 
-Puntuacion 55/100
+*Puntuacion 55/100*
 
 A continuación describiré la valoración del equipo según las  partes correspondientes con las partes fuertes y débiles del proyecto:
 
@@ -166,7 +166,7 @@ DIU3.Bolargo		https://github.com/iscoct/DIU20
 
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir ocio.
 
-Puntuacion 59/100
+*Puntuacion 59/100*
 
 A continuación describiré la valoración del equipo según las  partes correspondientes con las partes fuertes y débiles del proyecto:
 
@@ -203,7 +203,7 @@ Harley busca un apartamento para pasar su siguiente año y encontrar algo econó
 
 2- DIU3.Bolargo   59/100
 
-3- DIU2.GMI	      55/100
+3- DIU2.GMI	  55/100
 
 
 

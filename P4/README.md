@@ -88,6 +88,7 @@ Los bocetos.
 	
 	Harley tiene que hacer un viaje precipitado al día siguiente para visitar a su padre que ha sido operado, hablando con una amiga le recomienda usar Pazifika, tras llegar de clase busca esta app pero le pide registrarse para ver los posibles viajes, esto le molesta un poco pero intenta registrarse, al no tener ninguna opcion rapida de registro con google o facebook se cansa y busca otra aplicación que le deje ver los viajes disponibles y hacer un registro rápido.
 
+
 	Harley busca un apartamento para pasar su siguiente año y encontrar algo económico, en Global Homeve una alternativa que dice ofrecer mejores precios. Tras buscar encuentra un apartamento interesante, pero el usuario ofrece un contrato en moneda virtual, pero como ella no entiende mucho del tema contacta con el vendedor para saber más, tras un tiempo hablando las alternativas de pago que le ofrece no le hacen fiarse de él, al ver que no hay un seguro que la respalde, esto hace que rechace la aplicación.
 
 

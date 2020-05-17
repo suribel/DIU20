@@ -110,7 +110,7 @@ https://drive.google.com/drive/folders/1y-b4ffZfqmr4vEZqbKbSPS7d-qWJl1Om?usp=sha
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
-DIU1.COHETE	https://github.com/migue99angel/DIU20
+**DIU1.COHETE**		:octocat: https://github.com/migue99angel/DIU20
 
 Este equipo ha planteado la idea de diseño de una aplicación basada en la experiencia de compartir viaje.
 
@@ -135,7 +135,7 @@ La propuesta de mejora.
 
 
 
-DIU2.GMI	https://github.com/GonzaloMartinezIanez/DIU2-GMI
+**DIU2.GMI**	:octocat: https://github.com/GonzaloMartinezIanez/DIU2-GMI
 
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de compartir alojamiento.
 
@@ -162,7 +162,7 @@ La malla receptora de información.
 
 
 
-DIU3.Bolargo		https://github.com/iscoct/DIU20
+**DIU3.Bolargo**		:octocat: https://github.com/iscoct/DIU20
 
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir ocio.
 
@@ -199,11 +199,11 @@ Harley busca un apartamento para pasar su siguiente año y encontrar algo econó
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
-1- DIU1.COHETE    67/100
+**1- DIU1.COHETE    67/100**
 
-2- DIU3.Bolargo   59/100
+**2- DIU3.Bolargo   59/100**
 
-3- DIU2.GMI	  55/100
+**3- DIU2.GMI	  55/100**
 
 
 
